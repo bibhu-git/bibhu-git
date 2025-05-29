@@ -1,44 +1,43 @@
+<h1 align="center">Hi, I'm Bibhu 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Bibhu+%F0%9F%91%8B" alt="Typing SVG" />
+  💻 MERN Stack Developer | 🎓 BCA Graduate | 🚀 Building Scalable Web Apps
 </p>
 
-<h1 align="center">💻 MERN Stack Developer | 🎓 BCA Graduate | 🚀 Building Scalable Web Apps</h1>
-
 <p align="center">
-I'm a passionate full-stack developer who loves solving real-world problems through code. I enjoy building user-focused applications with clean UI, efficient backend logic, and modern development tools.
+  <a href="https://linkedin.com/in/bibhu-ranjan-mohanty" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Bibhu%20Ranjan%20Mohanty-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/bibhu-git" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-bibhu--git-black?style=flat-square&logo=github" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Projects
+### 👨‍💻 About Me
+
+I'm a passionate full-stack developer who loves solving real-world problems through code.  
+I enjoy building user-focused applications with **clean UI**, **efficient backend logic**, and **modern development tools**.
+
+---
+
+### 🚀 Projects I'm Proud Of
 
 - 🍽️ [**QuickEats – Online Food Delivery App**](https://github.com/bibhu-git/quickEats)  
-  React + Tailwind + Node.js + Stripe. Includes user auth, cart functionality, admin panel, and online payments.
+  <sub>React + Tailwind + Node.js + Stripe | Features: User Auth, Cart, Admin Panel, Payments</sub>
 
 - 🏫 [**Canteen Management System**](https://github.com/bibhu-git/canteen-frontend)  
-  Full-stack system for student meal attendance, admin payment verification, and daily tracking.
+  <sub>Tracks student meal attendance, handles payment verification & admin management</sub>
 
 - 💬 [**Real-time Chat App**](https://github.com/bibhu-git/realtime-chat-app)  
-  Built with Socket.IO, Express, MongoDB, and React. Supports real-time messaging and user authentication.
+  <sub>Built with Socket.IO, Express, MongoDB, and React | Real-time messaging with authentication</sub>
 
 ---
 
-### 💼 Tech Stack
+### 🧰 Tech Stack
 
-- **Frontend**: React, Tailwind CSS, Context API  
-- **Backend**: Node.js, Express.js, MongoDB, Mongoose  
-- **Other Tools**: Git, Postman, JWT, Multer, Vercel, Render, Stripe, Socket.IO
-
----
-
-### 📫 Let's Connect!
-
-- [LinkedIn](https://linkedin.com/in/bibhu-ranjan-mohanty)
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bibhu-git&style=flat-square&color=blue" alt="Profile views" />
-</p>
+```bash
+💻 Frontend   : React, Tailwind CSS, Context API
+🛠️ Backend    : Node.js, Express.js, MongoDB, Mongoose
+🔐 Auth       : JWT, bcrypt
+📦 Tools      : Git, Postman, Multer, Vercel, Render, Stripe, Socket.IO
