@@ -7,7 +7,7 @@ I'm a passionate full-stack developer who loves solving real-world problems thro
 - 🍽️ [QuickEats – Online Food Delivery App](https://github.com/bibhu-git/quickEats)  
   React + Tailwind + Node.js + Stripe. Includes user auth, cart functionality, admin panel, and online payments.
 
-- 🏫 [Canteen Management System](https://github.com/bibhu-git/canteen_frontend)  
+- 🏫 [Canteen Management System](https://github.com/bibhu-git/canteen-frontend)  
   Full-stack system for student meal attendance, admin payment verification, and daily tracking.
 
 - 💬 [Real-time Chat App](https://github.com/bibhu-git/realtime-chat-app)  
