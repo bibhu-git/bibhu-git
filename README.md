@@ -1,30 +1,43 @@
-# Hi, I'm Bibhu 👋
+<h1 align="center">Hi, I'm Bibhu 👋</h1>
+<p align="center">
+  💻 MERN Stack Developer | 🎓 BCA Graduate | 🚀 Building Scalable Web Apps
+</p>
 
-💻 MERN Stack Developer | 🎓 BCA Graduate | 🚀 Building Scalable Web Apps
-
-I'm a passionate full-stack developer who loves solving real-world problems through code. I enjoy building user-focused applications with clean UI, efficient backend logic, and modern development tools. Here are a few projects I'm proud of:
-
-- 🍽️ [QuickEats – Online Food Delivery App](https://github.com/bibhu-git/quickEats)  
-  React + Tailwind + Node.js + Stripe. Includes user auth, cart functionality, admin panel, and online payments.
-
-- 🏫 [Canteen Management System](https://github.com/bibhu-git/canteen-frontend)  
-  Full-stack system for student meal attendance, admin payment verification, and daily tracking.
-
-- 💬 [Real-time Chat App](https://github.com/bibhu-git/realtime-chat-app)  
-  Built with Socket.IO, Express, MongoDB, and React. Supports real-time messaging and user authentication.
-
----
-
-### 💼 Tech Stack
-- **Frontend**: React, Tailwind CSS, Context API
-- **Backend**: Node.js, Express.js, MongoDB, Mongoose
-- **Other Tools**: Git, Postman, JWT, Multer, Vercel, Render, Stripe, Socket.IO
+<p align="center">
+  <a href="https://linkedin.com/in/bibhu-ranjan-mohanty" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Bibhu%20Ranjan%20Mohanty-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/bibhu-git" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-bibhu--git-black?style=flat-square&logo=github" />
+  </a>
+</p>
 
 ---
 
-### 📫 Let's Connect!
-- [LinkedIn](https://linkedin.com/in/bibhu-ranjan-mohanty)
+### 👨‍💻 About Me
+
+I'm a passionate full-stack developer who loves solving real-world problems through code.  
+I enjoy building user-focused applications with **clean UI**, **efficient backend logic**, and **modern development tools**.
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+### 🚀 Projects I'm Proud Of
+
+- 🍽️ [**QuickEats – Online Food Delivery App**](https://github.com/bibhu-git/quickEats)  
+  <sub>React + Tailwind + Node.js + Stripe | Features: User Auth, Cart, Admin Panel, Payments</sub>
+
+- 🏫 [**Canteen Management System**](https://github.com/bibhu-git/canteen-frontend)  
+  <sub>Tracks student meal attendance, handles payment verification & admin management</sub>
+
+- 💬 [**Real-time Chat App**](https://github.com/bibhu-git/realtime-chat-app)  
+  <sub>Built with Socket.IO, Express, MongoDB, and React | Real-time messaging with authentication</sub>
+
+---
+
+### 🧰 Tech Stack
+
+```bash
+💻 Frontend   : React, Tailwind CSS, Context API
+🛠️ Backend    : Node.js, Express.js, MongoDB, Mongoose
+🔐 Auth       : JWT, bcrypt
+📦 Tools      : Git, Postman, Multer, Vercel, Render, Stripe, Socket.IO
