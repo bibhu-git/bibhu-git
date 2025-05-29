@@ -1,42 +1,44 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Bibhu+Ranjan+Mohanty;MERN+Stack+Developer;Full+Stack+Web+Developer;BCA+Graduate;I+build+real-world+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Bibhu+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
+
+<h1 align="center">💻 MERN Stack Developer | 🎓 BCA Graduate | 🚀 Building Scalable Web Apps</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/bibhu-ranjan-mohanty" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Bibhu%20Ranjan%20Mohanty-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/bibhu-git" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-bibhu--git-black?style=for-the-badge&logo=github" />
-  </a>
+I'm a passionate full-stack developer who loves solving real-world problems through code. I enjoy building user-focused applications with clean UI, efficient backend logic, and modern development tools.
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-I'm a passionate full-stack developer who enjoys building robust, scalable web applications with clean design and modern functionality.  
-From intuitive UI to strong backend logic — I love solving real-world problems through code.
-
----
-
-### 🚀 Featured Projects
+### 🚀 Projects
 
 - 🍽️ [**QuickEats – Online Food Delivery App**](https://github.com/bibhu-git/quickEats)  
-  <sub>React + Tailwind + Node.js + Stripe | Features: User Auth, Cart, Admin Panel, Online Payments</sub>
+  React + Tailwind + Node.js + Stripe. Includes user auth, cart functionality, admin panel, and online payments.
 
 - 🏫 [**Canteen Management System**](https://github.com/bibhu-git/canteen-frontend)  
-  <sub>Full-stack app for student meal attendance, admin-side payment verification, and meal tracking.</sub>
+  Full-stack system for student meal attendance, admin payment verification, and daily tracking.
 
 - 💬 [**Real-time Chat App**](https://github.com/bibhu-git/realtime-chat-app)  
-  <sub>Messaging platform built with Socket.IO, Express, React, and MongoDB — includes user auth.</sub>
+  Built with Socket.IO, Express, MongoDB, and React. Supports real-time messaging and user authentication.
 
 ---
 
 ### 💼 Tech Stack
 
-```bash
-🌐 Frontend   : React, Tailwind CSS, Context API  
-🛠️ Backend    : Node.js, Express.js, MongoDB, Mongoose  
-🔐 Auth       : JWT, bcrypt  
-📦 Tools      : Git, Postman, Multer, Vercel, Render, Stripe, Socket.IO
+- **Frontend**: React, Tailwind CSS, Context API  
+- **Backend**: Node.js, Express.js, MongoDB, Mongoose  
+- **Other Tools**: Git, Postman, JWT, Multer, Vercel, Render, Stripe, Socket.IO
+
+---
+
+### 📫 Let's Connect!
+
+- [LinkedIn](https://linkedin.com/in/bibhu-ranjan-mohanty)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bibhu-git&style=flat-square&color=blue" alt="Profile views" />
+</p>
