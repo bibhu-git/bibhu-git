@@ -37,6 +37,11 @@ I enjoy building user-focused applications with **clean UI**, **efficient backen
 
 ---
 
+Check out my personal portfolio site: 
+https://portfolio-lemon-one-88.vercel.app/
+
+---
+
 ### 🧰 Tech Stack
 
 ```bash
